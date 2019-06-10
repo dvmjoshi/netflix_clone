@@ -7,7 +7,6 @@ A new Flutter application to learn animation and basic ui components..
 This project is a starting point for a Flutter application.
 <br>
 <img src="https://user-images.githubusercontent.com/24698014/59196265-d0303700-8bab-11e9-928b-9a0b57958439.png" width="280" height="550">
-<img src="https://user-images.githubusercontent.com/24698014/59196265-d0303700-8bab-11e9-928b-9a0b57958439.png" width="280" height="550">
 <img src="https://user-images.githubusercontent.com/24698014/59196271-d32b2780-8bab-11e9-9650-ca6f7c0cdbc8.png" width="280" height="550">
 <br>
 <br>
