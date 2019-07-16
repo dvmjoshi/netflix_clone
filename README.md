@@ -35,6 +35,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
+## License
+
+```
 The MIT License
 
 Copyright (c) 2019 Divyam Joshi
