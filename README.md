@@ -1,7 +1,7 @@
 # netflix_clone
 
 A new Flutter application to learn animation and basic ui components..
-
+## Assets credit to dribbble artist
 ## Getting Started
 
 This project is a starting point for a Flutter application.
